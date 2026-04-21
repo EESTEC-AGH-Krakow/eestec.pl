@@ -1,0 +1,134 @@
+{
+  "hero": {
+    "eyebrow": "Welcome",
+    "title": "Power Your Future",
+    "description": "We run local and international projects that help students grow leadership and technical skills and discover other cultures.",
+    "ctaLabel": "Learn more",
+    "ctaHref": "#o-nas",
+    "slides": [
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1920&q=80"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1920&q=80"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1540575467063-27aef4e7bd51?auto=format&fit=crop&w=1920&q=80"
+      },
+      {
+        "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1920&q=80"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "About us",
+    "lead": "EESTEC AGH Kraków is a university student organisation — non-political and non-profit — active for many years at AGH University of Science and Technology in Kraków. We are the local committee of EESTEC, the Electrical Engineering Students' European Association, which brings together students in technical fields. We have been at AGH since 1998; although we grew out of the Electronics Scientific Circle, we have operated independently since 2009. We work closely with students and faculty of the Faculty of Computer Science, Electronics and Telecommunications and the Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering. We organise recurring events such as the Soft Skills Academy workshops and the 24-hour Hachnarök hackathon. Our members take part in workshops abroad run by other European EESTEC committees, gaining knowledge and international contacts.",
+    "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=80"
+  },
+  "events": {
+    "eyebrow": "Calendar",
+    "title": "Events",
+    "items": [
+      {
+        "title": "Hacknarok X",
+        "dateIso": "2026-04-18",
+        "dateLabel": "18–19 April 2026",
+        "description": "Grab your keyboard and set off on a 24-hour journey through Norse mythology. Here the battle is fought with the power of the lines of code you write together with your team.",
+        "imageUrl": "/images/hacknarok.webp"
+      },
+      {
+        "title": "3rd General Assembly",
+        "dateIso": "2026-04-25",
+        "dateLabel": "25 April 2026",
+        "description": "Our third General Assembly is coming up — it's an electoral GA, so your attendance and vote directly shape the LC's future for the coming year. Those elected will represent us locally at AGH and in the international EESTEC network.",
+        "imageUrl": "/images/walne-wyborowe.webp"
+      },
+      {
+        "title": "Creation of AI Generation",
+        "dateIso": "2026-05-29",
+        "dateLabel": "29–31 May 2026",
+        "description": "Eight AI workshops (including ML, data, applications in finance) plus talks on soft skills — the first edition at AGH. Focus on real business deployments, not just prompting; networking with ASSA ABLOY, Hitachi, and Nokia and internship opportunities. On campus, around 50 participants.",
+        "imageUrl": "/images/coag.webp"
+      },
+      {
+        "title": "Motiwation Weekend",
+        "dateIso": "2026-05-22",
+        "dateLabel": "22–24 May 2026",
+        "description": "A team-building trip for members and alumni, with training, workshops, and time together — especially welcoming for new members getting to know the organisation.",
+        "imageUrl": "/images/motivation.webp"
+      }
+    ]
+  },
+  "featuredEvents": {
+    "eyebrow": "In the spotlight",
+    "title": "Our flagship events",
+    "items": [
+      {
+        "title": "Hacknarok",
+        "description": "A 24-hour hackathon in a Norse-mythology setting — team, code, and a demo for the jury. Our flagship technical event that brings students from different programmes to one table (and one commit log).",
+        "imageUrl": "/images/hack-main.webp"
+      },
+      {
+        "title": "Local COAG workshops",
+        "description": "The local edition of our AI series at AGH: hands-on workshops on ML, data, and AI in business, partner meetings, and skills that go beyond prompting alone.",
+        "imageUrl": "/images/coag-main.webp"
+      },
+      {
+        "title": "SSA",
+        "description": "Soft Skills Academy — a cycle of workshops on presenting, communication, teamwork, and finding your place in a professional environment. From theory to exercises that matter on campus and in recruitment.",
+        "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "Collaboration",
+    "title": "Partners"
+  },
+  "board": {
+    "eyebrow": "Organisation",
+    "title": "Board 2025/2026",
+    "intro": "Board of the EESTEC AGH Kraków Local Committee — term 2025/2026.",
+    "members": [
+      {
+        "name": "Piotr Postek",
+        "role": "Chairperson",
+        "email": "piotr.postek@eestec.pl",
+        "imageUrl": "/images/piotr_postek.webp"
+      },
+      {
+        "name": "Adrianna Solińska",
+        "role": "Treasurer",
+        "email": "adrianna.solinska@eestec.pl",
+        "imageUrl": "/images/adrianna_solinska.webp"
+      },
+      {
+        "name": "Karolina Polkowska",
+        "role": "Vice-Chair for international relations and administration",
+        "email": "karolina.polkowska@eestec.pl",
+        "imageUrl": "/images/karolina_polkowska.webp"
+      },
+      {
+        "name": "Michał Filipkowski",
+        "role": "Vice-Chair for external relations",
+        "email": "michal.filipkowski@eestec.pl",
+        "imageUrl": "/images/michal_filipkowski.webp"
+      },
+      {
+        "name": "Miłosz Potoczny",
+        "role": "Vice-Chair for human resources",
+        "email": "milosz.potoczny@eestec.pl",
+        "imageUrl": "/images/milosz_potoczny.webp"
+      }
+    ]
+  },
+  "footer": {
+    "label": "Find us here",
+    "copyright": "© EESTEC AGH Kraków",
+    "social": {
+      "instagram": "https://www.instagram.com/eestec_lc_krakow",
+      "facebook": "https://www.facebook.com/EESTEC.AGH.Krakow",
+      "linkedin": "https://www.linkedin.com/company/eestec-agh-krak%C3%B3w"
+    }
+  }
+}
