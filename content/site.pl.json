@@ -23,7 +23,7 @@
   "about": {
     "eyebrow": "Kim jesteśmy",
     "title": "O nas",
-    "lead": "EESTEC AGH Kraków to uczelniana organizacja studencka – apolityczna i non-profit – prężnie działająca od lat na Akademii Górniczo-Hutniczej w Krakowie. Jesteśmy lokalnym komitetem europejskiej organizacji studenckiej EESTEC – Electrical Engineering Students' European Association – zrzeszającej studentów kierunków technicznych. Jesteśmy obecni na Akademii Górniczo-Hutniczej od 1998 roku i choć wywodzimy się z Koła Naukowego Elektroników, od 2009 roku działamy niezależnie. Szczególnie bliskie relacje utrzymujemy ze studentami i władzami Wydziału Elektroniki i Telekomunikacji Informatyki oraz Wydziału Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej. Organizujemy cykliczne wydarzenia, takie jak warsztaty umiejętności miękkich Soft Skills Academy czy 24-godzinny hackathon Hachnarök. Nasi członkowie biorą udział w zagranicznych warsztatach organizowanych przez inne europejskie komitety EESTEC, gdzie zdobywają wiedzę i nawiązują kontakty międzynarodowe.",
+    "lead": "EESTEC AGH Kraków to uczelniana organizacja studencka – apolityczna i non-profit – prężnie działająca od lat na Akademii Górniczo-Hutniczej w Krakowie. Jesteśmy lokalnym komitetem europejskiej organizacji studenckiej EESTEC – Electrical Engineering Students' European Association – zrzeszającej studentów kierunków technicznych. Jesteśmy obecni na Akademii Górniczo-Hutniczej od 1998 roku i choć wywodzimy się z Koła Naukowego Elektroników, od 2009 roku działamy niezależnie. Szczególnie bliskie relacje utrzymujemy ze studentami i władzami Wydziału Elektroniki i Telekomunikacji Informatyki oraz Wydziału Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej. Organizujemy cykliczne wydarzenia, takie jak warsztaty umiejętności miękkich Soft Skills Academy czy 24-godzinny hackathon Hacknarök. Nasi członkowie biorą udział w zagranicznych warsztatach organizowanych przez inne europejskie komitety EESTEC, gdzie zdobywają wiedzę i nawiązują kontakty międzynarodowe.",
     "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=80"
   },
   "events": {
@@ -52,10 +52,10 @@
         "imageUrl": "/images/coag.webp"
       },
       {
-        "title": "Motiwation Weekend",
+        "title": "Motivation Weekend",
         "dateIso": "2026-05-22",
         "dateLabel": "22-24 maja 2026",
-        "description": "Integracyjny wyjazd dla członków i Alumnych, z treningami, warsztatami i wspólną zabawą – idealny dla nowych członków na poznanie organizacji.",
+        "description": "Integracyjny wyjazd dla członków i absolwentów, z treningami, warsztatami i wspólną zabawą – idealny dla nowych członków do poznania organizacji.",
         "imageUrl": "/images/motivation.webp"
       }
     ]

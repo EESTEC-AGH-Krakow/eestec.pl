@@ -102,7 +102,7 @@ export function AboutEuropeMap({ mapBranches, locale }: Props) {
 
   return (
     <div className="relative flex w-full max-w-full items-center justify-center overflow-x-clip overflow-y-visible bg-[var(--bg)] py-[clamp(1.25rem,4vh,3rem)] md:py-[clamp(1rem,3vh,2.5rem)]">
-      {/* Środek pośwaty w stronę mapy (prawa część kolumny) — mniej twarde „ucięcie” po lewej */}
+      {/* Środek poświaty w stronę mapy (prawa część kolumny) — mniej twarde „ucięcie” po lewej */}
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_110%_72%_at_58%_48%,rgba(229,42,48,0.085)_0%,transparent_62%)]" />
 
       <svg

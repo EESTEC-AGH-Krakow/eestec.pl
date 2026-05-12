@@ -23,7 +23,7 @@
   "about": {
     "eyebrow": "Who we are",
     "title": "About us",
-    "lead": "EESTEC AGH Kraków is a university student organisation — non-political and non-profit — active for many years at AGH University of Science and Technology in Kraków. We are the local committee of EESTEC, the Electrical Engineering Students' European Association, which brings together students in technical fields. We have been at AGH since 1998; although we grew out of the Electronics Scientific Circle, we have operated independently since 2009. We work closely with students and faculty of the Faculty of Computer Science, Electronics and Telecommunications and the Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering. We organise recurring events such as the Soft Skills Academy workshops and the 24-hour Hachnarök hackathon. Our members take part in workshops abroad run by other European EESTEC committees, gaining knowledge and international contacts.",
+    "lead": "EESTEC AGH Kraków is a university student organisation — non-political and non-profit — active for many years at AGH University of Science and Technology in Kraków. We are the local committee of EESTEC, the Electrical Engineering Students' European Association, which brings together students in technical fields. We have been at AGH since 1998; although we grew out of the Electronics Scientific Circle, we have operated independently since 2009. We work closely with students and faculty of the Faculty of Computer Science, Electronics and Telecommunications and the Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering. We organise recurring events such as the Soft Skills Academy workshops and the 24-hour Hacknarök hackathon. Our members take part in workshops abroad run by other European EESTEC committees, gaining knowledge and international contacts.",
     "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=80"
   },
   "events": {
@@ -52,7 +52,7 @@
         "imageUrl": "/images/coag.webp"
       },
       {
-        "title": "Motiwation Weekend",
+        "title": "Motivation Weekend",
         "dateIso": "2026-05-22",
         "dateLabel": "22–24 May 2026",
         "description": "A team-building trip for members and alumni, with training, workshops, and time together — especially welcoming for new members getting to know the organisation.",
